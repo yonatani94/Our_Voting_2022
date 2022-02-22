@@ -11,7 +11,7 @@ const Footer = () => (
           View this project on{" "}
           <a
             className="profile"
-            href=""
+            href="https://github.com/yonatani94/Our_Voting_2022"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -23,7 +23,7 @@ const Footer = () => (
           Made with <i className="fas fa-heartbeat" /> by{" "}
           <a
             className="profile"
-            href=""
+            href="https://github.com/yonatani94/Our_Voting_2022"
             target="_blank"
             rel="noopener noreferrer"
           >
