@@ -39,7 +39,7 @@ A decentralized voting system based on [Ethereum blockchain](https://ethereum.or
 
    ```shell
    git clone https://github.com/yonatani94/Our_Voting_2022/
-   cd dVoting
+   cd Our_Voting_2022
    ```
 
 1. Run local Ethereum blockchain
@@ -60,7 +60,7 @@ A decentralized voting system based on [Ethereum blockchain](https://ethereum.or
 1. Deploy smart contract to the (local) blockchain network (i.e ganache-cli)
 
    ```shell
-   # on the dVoting directory
+   # on the Our_Voting_2022 directory
    truffle migrate
    ```
 
