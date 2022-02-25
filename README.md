@@ -1,5 +1,8 @@
 # Our_Voting_2022 - Decentralized Voting 
 
+![image](https://user-images.githubusercontent.com/49233340/155725139-a6ee2640-6786-432b-b050-1509bbe69ab3.png)
+
+
 A decentralized voting system based on [Ethereum blockchain](https://ethereum.org/dapps/) technology.
 
 ## Workflow
